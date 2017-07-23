@@ -1,0 +1,17 @@
+@media screen and (min-width: 993px) {
+    nav {
+        padding: 0px 10px 0px 10px;
+    }
+}
+
+.brand-logo {
+  font-family: 'Gruppo', cursive;
+}
+
+h1.fadeIn {
+  display: none;
+}
+
+#topSpace {
+  margin-top: 10%;
+}
